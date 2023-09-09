@@ -1,0 +1,393 @@
+[
+    {
+        "question": "What is Malawi?",
+        "choices": [
+            {
+                "text": "Malawi is a country",
+                "id": 1
+            },
+            {
+                "text": "Malawi is an island",
+                "id": 2
+            },
+            {
+                "text": "Malawi is a color",
+                "id": 3
+            },
+            {
+                "text": "Malawi is an animal",
+                "id": 4
+            }
+        ],
+        "correctAnswer": 1,
+        "didYouKnow": "Did you know that Malawi is often referred to as the 'Warm Heart of Africa' because of its friendly and welcoming people?"
+    },
+    {
+        "question": "Which of the following is the capital city of Malawi?",
+        "choices": [
+            {
+                "text": "Lilongwe",
+                "id": 1
+            },
+            {
+                "text": "Blantyre",
+                "id": 2
+            },
+            {
+                "text": "Mzuzu",
+                "id": 3
+            },
+            {
+                "text": "Zomba",
+                "id": 4
+            }
+        ],
+        "correctAnswer": 1,
+        "didYouKnow": "Did you know that Lilongwe replaced Zomba as the capital in 1975?"
+    },
+    {
+        "question": "What is the largest lake in Malawi?",
+        "choices": [
+            {
+                "text": "Lake Malawi",
+                "id": 1
+            },
+            {
+                "text": "Lake Tanganyika",
+                "id": 2
+            },
+            {
+                "text": "Lake Victoria",
+                "id": 3
+            },
+            {
+                "text": "Lake Turkana",
+                "id": 4
+            }
+        ],
+        "correctAnswer": 1,
+        "didYouKnow": "Did you know that Lake Malawi contains more fish species than any other lake in the world?"
+    },
+    {
+        "question": "Which currency is used in Malawi?",
+        "choices": [
+            {
+                "text": "Malawian Dollar",
+                "id": 1
+            },
+            {
+                "text": "Malawian Kwacha",
+                "id": 2
+            },
+            {
+                "text": "Malawian Shilling",
+                "id": 3
+            },
+            {
+                "text": "Malawian Peso",
+                "id": 4
+            }
+        ],
+        "correctAnswer": 2,
+        "didYouKnow": "Did you know that the Malawian Kwacha features a variety of wildlife on its banknotes?"
+    },
+    {
+        "question": "What is the nickname often given to Malawi due to its friendly people and welcoming atmosphere?",
+        "choices": [
+            {
+                "text": "The Land of Lakes",
+                "id": 1
+            },
+            {
+                "text": "The Warm Heart of Africa",
+                "id": 2
+            },
+            {
+                "text": "The Jewel of the Nile",
+                "id": 3
+            },
+            {
+                "text": "The Serengeti",
+                "id": 4
+            }
+        ],
+        "correctAnswer": 2,
+        "didYouKnow": "Did you know that Malawi earned its nickname 'Warm Heart of Africa' due to the genuine warmth and friendliness of its citizens?"
+    },
+    {
+        "question": "Which famous British explorer was the first European to reach Lake Malawi?",
+        "choices": [
+            {
+                "text": "David Livingstone",
+                "id": 1
+            },
+            {
+                "text": "Henry Morton Stanley",
+                "id": 2
+            },
+            {
+                "text": "John Hanning Speke",
+                "id": 3
+            },
+            {
+                "text": "Richard Burton",
+                "id": 4
+            }
+        ],
+        "correctAnswer": 1,
+        "didYouKnow": "Did you know that David Livingstone named Lake Malawi 'Lake Nyasa' after the Swahili word for 'lake'?"
+    },
+    {
+        "question": "What is the predominant language spoken in Malawi?",
+        "choices": [
+            {
+                "text": "English",
+                "id": 1
+            },
+            {
+                "text": "Swahili",
+                "id": 2
+            },
+            {
+                "text": "Chewa",
+                "id": 3
+            },
+            {
+                "text": "Zulu",
+                "id": 4
+            }
+        ],
+        "correctAnswer": 3,
+        "didYouKnow": "Did you know that Chewa, also known as Nyanja, is the most widely spoken indigenous language in Malawi?"
+    },
+    {
+        "question": "In which continent is Malawi located?",
+        "choices": [
+            {
+                "text": "Asia",
+                "id": 1
+            },
+            {
+                "text": "Africa",
+                "id": 2
+            },
+            {
+                "text": "Europe",
+                "id": 3
+            },
+            {
+                "text": "South America",
+                "id": 4
+            }
+        ],
+        "correctAnswer": 2,
+        "didYouKnow": "Did you know that Malawi is a landlocked country in southeastern Africa, often referred to as the 'Warm Heart of Africa'?"
+    },
+    {
+        "question": "What is the nickname of Malawi's national football (soccer) team?",
+        "choices": [
+            {
+                "text": "The Lions",
+                "id": 1
+            },
+            {
+                "text": "The Elephants",
+                "id": 2
+            },
+            {
+                "text": "The Flames",
+                "id": 3
+            },
+            {
+                "text": "The Cheetahs",
+                "id": 4
+            }
+        ],
+        "correctAnswer": 3,
+        "didYouKnow": "Did you know that 'The Flames' is the nickname of Malawi's national football team, representing the passion of the players and fans?"
+    },
+    {
+        "question": "Which neighboring country of Malawi shares its southern border?",
+        "choices": [
+            {
+                "text": "Tanzania",
+                "id": 1
+            },
+            {
+                "text": "Zambia",
+                "id": 2
+            },
+            {
+                "text": "Mozambique",
+                "id": 3
+            },
+            {
+                "text": "Kenya",
+                "id": 4
+            }
+        ],
+        "correctAnswer": 3,
+        "didYouKnow": "Did you know that Malawi's southern border is shared with Mozambique, providing access to the Indian Ocean?"
+    },
+    {
+        "question": "What is the highest mountain in Malawi?",
+        "choices": [
+            {
+                "text": "Mount Kilimanjaro",
+                "id": 1
+            },
+            {
+                "text": "Mount Elgon",
+                "id": 2
+            },
+            {
+                "text": "Mount Mulanje",
+                "id": 3
+            },
+            {
+                "text": "Mount Kenya",
+                "id": 4
+            }
+        ],
+        "correctAnswer": 3,
+        "didYouKnow": "Did you know that Mount Mulanje is a popular destination for hikers and climbers, offering breathtaking views of the surrounding landscape?"
+    },
+    {
+        "question": "What is the major religion practiced in Malawi?",
+        "choices": [
+            {
+                "text": "Christianity",
+                "id": 1
+            },
+            {
+                "text": "Islam",
+                "id": 2
+            },
+            {
+                "text": "Hinduism",
+                "id": 3
+            },
+            {
+                "text": "Buddhism",
+                "id": 4
+            }
+        ],
+        "correctAnswer": 1,
+        "didYouKnow": "Did you know that Christianity is the dominant religion in Malawi, with various denominations represented across the country?"
+    },
+    {
+        "question": "Which African lake is known for its unique population of cichlid fish species?",
+        "choices": [
+            {
+                "text": "Lake Malawi",
+                "id": 1
+            },
+            {
+                "text": "Lake Victoria",
+                "id": 2
+            },
+            {
+                "text": "Lake Tanganyika",
+                "id": 3
+            },
+            {
+                "text": "Lake Chad",
+                "id": 4
+            }
+        ],
+        "correctAnswer": 1,
+        "didYouKnow": "Did you know that Lake Malawi is home to over 1,000 species of cichlid fish, making it a hotspot for aquatic biodiversity?"
+    },
+    {
+        "question": "What is the traditional musical instrument often associated with Malawian music?",
+        "choices": [
+            {
+                "text": "Drums",
+                "id": 1
+            },
+            {
+                "text": "Guitar",
+                "id": 2
+            },
+            {
+                "text": "Mbira",
+                "id": 3
+            },
+            {
+                "text": "Trumpet",
+                "id": 4
+            }
+        ],
+        "correctAnswer": 3,
+        "didYouKnow": "Did you know that the Mbira, also known as the thumb piano, produces melodic sounds and is a key element in traditional Malawian music?"
+    },
+    {
+        "question": "Which wildlife reserve in Malawi is famous for its diverse wildlife and bird species?",
+        "choices": [
+            {
+                "text": "Nyika National Park",
+                "id": 1
+            },
+            {
+                "text": "Kasungu National Park",
+                "id": 2
+            },
+            {
+                "text": "Vwaza Marsh Wildlife Reserve",
+                "id": 3
+            },
+            {
+                "text": "Liwonde National Park",
+                "id": 4
+            }
+        ],
+        "correctAnswer": 1,
+        "didYouKnow": "Did you know that Nyika National Park is known for its unique plateau landscape and is home to a variety of animals and bird species?"
+    },
+    {
+        "question": "What is the traditional Malawian dish made from ground maize and served with various accompaniments?",
+        "choices": [
+            {
+                "text": "Sushi",
+                "id": 1
+            },
+            {
+                "text": "Biryani",
+                "id": 2
+            },
+            {
+                "text": "Nsima",
+                "id": 3
+            },
+            {
+                "text": "Pasta",
+                "id": 4
+            }
+        ],
+        "correctAnswer": 3,
+        "didYouKnow": "Did you know that Nsima is a staple food in Malawi and is often served with vegetables, meat, or fish?"
+    },
+    {
+        "question": "What is the primary source of income for many people in rural areas of Malawi?",
+        "choices": [
+            {
+                "text": "Fishing",
+                "id": 1
+            },
+            {
+                "text": "Mining",
+                "id": 2
+            },
+            {
+                "text": "Tourism",
+                "id": 3
+            },
+            {
+                "text": "Agriculture",
+                "id": 4
+            }
+        ],
+        "correctAnswer": 4,
+        "didYouKnow": "Did you know that agriculture plays a crucial role in the livelihoods of rural communities in Malawi, with subsistence farming being common?"
+    }
+]
